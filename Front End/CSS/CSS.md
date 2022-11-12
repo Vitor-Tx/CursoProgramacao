@@ -16,15 +16,19 @@
 - elemento > elemento
 - elemento elemento
 - etc
+  - https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Selectors
+  - https://www.w3schools.com/csSref/css_selectors.php
 
 ## Comentários
 
-- Utiliza-se /* */ ou //
+- Utiliza-se /* */
 
 ## Cores
 
 - Hexadecimal (#FFFFFF, #00AB44)
+- nome "yellow"
 - rgb (255, 99, 101)
+- rgba (255, 99, 101, 40%)
 - hsl (9, 100%, 64%)
 - color -> cor do texto
 - background-color -> cor do fundo do elemento
